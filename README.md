@@ -55,15 +55,15 @@
 ### 🌐 Connect with me
 
 <div align="left">
-  <a href="https://www.instagram.com/izashry/" target="_blank">
+  <a href="https://www.instagram.com/_arhisyam?igsh=MXM2eGhtaXZwcTB2bA==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="35" />
   </a>
 
-  <a href="mailto:faizashary19@gmail.com" target="_blank">
+  <a href="mailto:hisyamuddin2311@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="35" />
   </a>
 
-  <a href="https://www.linkedin.com/in/faizikhsan060106/" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmad-rohmat-hisyamuddin-a22734323/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
