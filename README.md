@@ -5,7 +5,7 @@
 <div align="center">
 
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=faizikhsan123&theme=dracula&hide_border=true" height="150" />
+  <img src="https://streak-stats.demolab.com?user=Hisyuam&theme=dracula&hide_border=true" height="150" />
 
   <br>
 
