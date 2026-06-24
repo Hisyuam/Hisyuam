@@ -70,4 +70,4 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/faizikhsan123/faizikhsan123/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Hisyuam/Hisyuam/output/snake.svg" alt="Snake animation" />
